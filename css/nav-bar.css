@@ -35,7 +35,7 @@ body {
 }
 
 .nav div.logo a:hover {
-    color: #00E676;
+    color: #696969; /*grey color hex code */
 }
 
 .nav div.main_list {
